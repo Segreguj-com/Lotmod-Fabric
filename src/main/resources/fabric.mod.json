@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "lotmod_fabric",
+  "version": "1.0.0",
+  "name": "lotmod fabric",
+  "authors": [
+    "Mateusz, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": "https://github.com/ClothCreators/MCreatorFabricGenerator"
+  },
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.lotmodfabric.LotmodFabricMod"
+    ],
+    "client": [
+      "net.mcreator.lotmodfabric.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.9.0",
+    "fabric": "*"
+  }
+}
