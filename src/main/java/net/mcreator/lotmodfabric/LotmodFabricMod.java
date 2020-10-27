@@ -18,6 +18,9 @@ import org.apache.logging.log4j.LogManager;
 import net.minecraft.util.TypedActionResult;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.ActionResult;
+import net.minecraft.item.ItemGroup;
+
+import net.mcreator.lotmodfabric.item.BronieItemGroup;
 
 import net.fabricmc.fabric.api.event.world.WorldTickCallback;
 import net.fabricmc.fabric.api.event.player.UseItemCallback;
@@ -28,6 +31,7 @@ import net.fabricmc.api.ModInitializer;
 
 public class LotmodFabricMod implements ModInitializer {
 	public static final Logger LOGGER = LogManager.getLogger();
+	public static final ItemGroup Bronie = BronieItemGroup.get();
 	public void onInitialize() {
 		LOGGER.info("[LotmodFabricMod] Initializing");
 		WorldTickCallback.EVENT.register((world) -> {
