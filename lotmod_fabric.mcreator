@@ -59,7 +59,7 @@
       "name": "CaloricSlab",
       "type": "block",
       "sortid": 7,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "caloric_slab"
