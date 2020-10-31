@@ -1,3 +1,14 @@
 {
-  "itemGroup.lotmod_fabric.bronie": "Bronie"
+  "item.lotmod_fabric.legatium_dust": "Legatium",
+  "block.lotmod_fabric.caloric_slab": "Caloric Slab",
+  "block.lotmod_fabric.legatium_block": "Block of Legatium",
+  "block.lotmod_fabric.caloric_leaves": "Caloric Leaves",
+  "block.lotmod_fabric.caloric_fence_gate": "Caloric Fence Gate",
+  "block.lotmod_fabric.caloric_planks": "Caloric Planks",
+  "block.lotmod_fabric.caloric_wood": "Caloric Wood",
+  "block.lotmod_fabric.legatium_ore": "Legatium Ore",
+  "block.lotmod_fabric.caloric_fence": "Caloric Fence",
+  "itemGroup.lotmod_fabric.bronie": "Bronie",
+  "block.lotmod_fabric.caloric_stairs": "Caloric Stairs",
+  "block.lotmod_fabric.caloric_log": "Caloric Log"
 }

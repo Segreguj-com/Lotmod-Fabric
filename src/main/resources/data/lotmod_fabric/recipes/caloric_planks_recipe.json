@@ -1,0 +1,13 @@
+{
+  "group": "lotmod_fabric",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:caloric_log"
+    }
+  ],
+  "result": {
+    "item": "lotmod_fabric:caloric_planks",
+    "count": 4
+  }
+}

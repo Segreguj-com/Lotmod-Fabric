@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "lotmod_fabric:blocks/caloric_planks",
+    "particle": "lotmod_fabric:blocks/caloric_planks"
+  }
+}

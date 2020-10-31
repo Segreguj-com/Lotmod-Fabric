@@ -9,13 +9,363 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bronie"
+    },
+    {
+      "name": "CaloricWood",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_wood"
+    },
+    {
+      "name": "CaloricLog",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_log"
+    },
+    {
+      "name": "CaloricPlanks",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_planks"
+    },
+    {
+      "name": "CaloricLeaves",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_leaves"
+    },
+    {
+      "name": "CaloricStairs",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_stairs"
+    },
+    {
+      "name": "CaloricSlab",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_slab"
+    },
+    {
+      "name": "CaloricFence",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_fence"
+    },
+    {
+      "name": "CaloricFenceGate",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_fence_gate"
+    },
+    {
+      "name": "CaloricItemsTag",
+      "type": "tag",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_items_tag"
+    },
+    {
+      "name": "CaloricWoodRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_wood_recipe"
+    },
+    {
+      "name": "CaloricPlanksRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_planks_recipe"
+    },
+    {
+      "name": "CaloricStairsRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_stairs_recipe"
+    },
+    {
+      "name": "CaloricSlabRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_slab_recipe"
+    },
+    {
+      "name": "CaloricFenceRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_fence_recipe"
+    },
+    {
+      "name": "CaloricFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_fence_gate_recipe"
+    },
+    {
+      "name": "CaloricStickRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caloric_stick_recipe"
+    },
+    {
+      "name": "LegatiumDust",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_dust"
+    },
+    {
+      "name": "LegatiumOre",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_ore"
+    },
+    {
+      "name": "LegatiumBlock",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_block"
+    },
+    {
+      "name": "LegatiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_ore_block_recipe"
+    },
+    {
+      "name": "LegatiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_block_ore_recipe"
+    },
+    {
+      "name": "LegatiumOreSmelting",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_ore_smelting"
+    },
+    {
+      "name": "LegatiumPickaxe",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_pickaxe"
+    },
+    {
+      "name": "LegatiumAxe",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_axe"
+    },
+    {
+      "name": "LegatiumSword",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_sword"
+    },
+    {
+      "name": "LegatiumShovel",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_shovel"
+    },
+    {
+      "name": "LegatiumHoe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_hoe"
+    },
+    {
+      "name": "LegatiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_pickaxe_recipe"
+    },
+    {
+      "name": "LegatiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_axe_recipe"
+    },
+    {
+      "name": "LegatiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_sword_recipe"
+    },
+    {
+      "name": "LegatiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_shovel_recipe"
+    },
+    {
+      "name": "LegatiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_hoe_recipe"
+    },
+    {
+      "name": "LegatiumArmor",
+      "type": "armor",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "LegatiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_armor_helmet_recipe"
+    },
+    {
+      "name": "LegatiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_armor_body_recipe"
+    },
+    {
+      "name": "LegatiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_armor_leggings_recipe"
+    },
+    {
+      "name": "LegatiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legatium_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "itemGroup.lotmod_fabric.bronie": "Bronie"
+      "item.lotmod_fabric.legatium_dust": "Legatium",
+      "block.lotmod_fabric.caloric_slab": "Caloric Slab",
+      "block.lotmod_fabric.legatium_block": "Block of Legatium",
+      "block.lotmod_fabric.caloric_leaves": "Caloric Leaves",
+      "block.lotmod_fabric.caloric_fence_gate": "Caloric Fence Gate",
+      "block.lotmod_fabric.caloric_planks": "Caloric Planks",
+      "block.lotmod_fabric.caloric_wood": "Caloric Wood",
+      "block.lotmod_fabric.legatium_ore": "Legatium Ore",
+      "block.lotmod_fabric.caloric_fence": "Caloric Fence",
+      "itemGroup.lotmod_fabric.bronie": "Bronie",
+      "block.lotmod_fabric.caloric_stairs": "Caloric Stairs",
+      "block.lotmod_fabric.caloric_log": "Caloric Log"
     }
   },
   "workspaceSettings": {

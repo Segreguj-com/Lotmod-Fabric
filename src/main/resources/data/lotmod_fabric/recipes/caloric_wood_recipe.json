@@ -1,0 +1,26 @@
+{
+  "group": "lotmod_fabric",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "lotmod_fabric:caloric_log"
+    },
+    "1": {
+      "item": "lotmod_fabric:caloric_log"
+    },
+    "2": {
+      "item": "lotmod_fabric:caloric_log"
+    },
+    "3": {
+      "item": "lotmod_fabric:caloric_log"
+    }
+  },
+  "result": {
+    "item": "lotmod_fabric:caloric_wood",
+    "count": 3
+  }
+}

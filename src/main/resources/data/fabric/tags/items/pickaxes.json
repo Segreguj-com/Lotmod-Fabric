@@ -1,4 +1,7 @@
 {
   "replace": false,
-  "values": []
+  "values": [
+    "lotmod_fabric:legatium_pickaxe",
+    null
+  ]
 }

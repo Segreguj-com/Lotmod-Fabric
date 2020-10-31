@@ -1,0 +1,36 @@
+{
+  "group": "lotmod_fabric",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "lotmod_fabric:legatium_dust"
+    },
+    "1": {
+      "item": "lotmod_fabric:legatium_dust"
+    },
+    "2": {
+      "item": "lotmod_fabric:legatium_dust"
+    },
+    "3": {
+      "item": "lotmod_fabric:legatium_dust"
+    },
+    "5": {
+      "item": "lotmod_fabric:legatium_dust"
+    },
+    "6": {
+      "item": "lotmod_fabric:legatium_dust"
+    },
+    "8": {
+      "item": "lotmod_fabric:legatium_dust"
+    }
+  },
+  "result": {
+    "item": "lotmod_fabric:legatium_armor_leggings",
+    "count": 1
+  }
+}

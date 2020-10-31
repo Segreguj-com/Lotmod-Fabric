@@ -1,0 +1,13 @@
+{
+  "group": "lotmod_fabric",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lotmod_fabric:legatium_block"
+    }
+  ],
+  "result": {
+    "item": "lotmod_fabric:legatium_dust",
+    "count": 9
+  }
+}
