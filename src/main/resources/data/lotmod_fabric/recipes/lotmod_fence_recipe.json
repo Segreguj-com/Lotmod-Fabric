@@ -1,0 +1,32 @@
+{
+  "group": "lotmod_fabric",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "lotmod_fabric:lotmod_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "lotmod_fabric:lotmod_planks"
+    },
+    "3": {
+      "item": "lotmod_fabric:lotmod_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "lotmod_fabric:lotmod_planks"
+    }
+  },
+  "result": {
+    "item": "lotmod_fabric:lotmod_fence",
+    "count": 3
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "lotmod_fabric:lotmod_wood",
+    "lotmod_fabric:lotmod_log"
+  ]
+}

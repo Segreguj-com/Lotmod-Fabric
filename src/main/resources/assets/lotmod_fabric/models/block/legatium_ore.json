@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "lotmod_fabric:blocks/legatium_ore",
-    "particle": "lotmod_fabric:blocks/legatium_ore"
-  }
-}

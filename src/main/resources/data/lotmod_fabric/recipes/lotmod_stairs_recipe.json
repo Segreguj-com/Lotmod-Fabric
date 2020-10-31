@@ -1,0 +1,33 @@
+{
+  "group": "lotmod_fabric",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "lotmod_fabric:lotmod_planks"
+    },
+    "3": {
+      "item": "lotmod_fabric:lotmod_planks"
+    },
+    "4": {
+      "item": "lotmod_fabric:lotmod_planks"
+    },
+    "6": {
+      "item": "lotmod_fabric:lotmod_planks"
+    },
+    "7": {
+      "item": "lotmod_fabric:lotmod_planks"
+    },
+    "8": {
+      "item": "lotmod_fabric:lotmod_planks"
+    }
+  },
+  "result": {
+    "item": "lotmod_fabric:lotmod_stairs",
+    "count": 4
+  }
+}

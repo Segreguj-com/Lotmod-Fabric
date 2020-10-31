@@ -1,8 +1,0 @@
-{
-  "parent": "block/stairs",
-  "textures": {
-    "bottom": "lotmod_fabric:blocks/caloric_planks",
-    "top": "lotmod_fabric:blocks/caloric_planks",
-    "side": "lotmod_fabric:blocks/caloric_planks"
-  }
-}

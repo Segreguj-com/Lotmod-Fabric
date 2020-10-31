@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "lotmod_fabric:blocks/caloric_leaves",
-    "particle": "lotmod_fabric:blocks/caloric_leaves"
-  }
-}

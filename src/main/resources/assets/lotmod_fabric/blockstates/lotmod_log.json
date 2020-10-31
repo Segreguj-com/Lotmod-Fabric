@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "lotmod_fabric:block/lotmod_log"
+    }
+  }
+}

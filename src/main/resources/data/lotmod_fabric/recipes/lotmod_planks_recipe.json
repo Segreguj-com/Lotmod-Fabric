@@ -1,0 +1,13 @@
+{
+  "group": "lotmod_fabric",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:lotmod_log"
+    }
+  ],
+  "result": {
+    "item": "lotmod_fabric:lotmod_planks",
+    "count": 4
+  }
+}
