@@ -56,15 +56,6 @@
       "registry_name": "lotmod_stairs"
     },
     {
-      "name": "LotmodSlab",
-      "type": "block",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "lotmod_slab"
-    },
-    {
       "name": "LotmodFence",
       "type": "block",
       "sortid": 8,
@@ -159,14 +150,13 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.lotmod_fabric.lotmod_fence_gate": "Lotmod Fence Gate",
       "block.lotmod_fabric.lotmod_stairs": "Lotmod Stairs",
       "block.lotmod_fabric.lotmod_log": "Lotmod Log",
       "block.lotmod_fabric.lotmod_planks": "Lotmod Planks",
+      "block.lotmod_fabric.lotmod_leaves": "Lotmod Leaves",
       "block.lotmod_fabric.lotmod_wood": "Lotmod Wood",
       "block.lotmod_fabric.lotmod_fence": "Lotmod Fence",
-      "block.lotmod_fabric.lotmod_fence_gate": "Lotmod Fence Gate",
-      "block.lotmod_fabric.lotmod_leaves": "Lotmod Leaves",
-      "block.lotmod_fabric.lotmod_slab": "Lotmod Slab",
       "itemGroup.lotmod_fabric.bronie": "Bronie"
     }
   },
@@ -183,6 +173,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "fabric-1.16.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.lotmodfabric",
     "lockBaseModFiles": false
   },

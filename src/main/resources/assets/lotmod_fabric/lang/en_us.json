@@ -1,11 +1,10 @@
 {
+  "block.lotmod_fabric.lotmod_fence_gate": "Lotmod Fence Gate",
   "block.lotmod_fabric.lotmod_stairs": "Lotmod Stairs",
   "block.lotmod_fabric.lotmod_log": "Lotmod Log",
   "block.lotmod_fabric.lotmod_planks": "Lotmod Planks",
+  "block.lotmod_fabric.lotmod_leaves": "Lotmod Leaves",
   "block.lotmod_fabric.lotmod_wood": "Lotmod Wood",
   "block.lotmod_fabric.lotmod_fence": "Lotmod Fence",
-  "block.lotmod_fabric.lotmod_fence_gate": "Lotmod Fence Gate",
-  "block.lotmod_fabric.lotmod_leaves": "Lotmod Leaves",
-  "block.lotmod_fabric.lotmod_slab": "Lotmod Slab",
   "itemGroup.lotmod_fabric.bronie": "Bronie"
 }

@@ -27,7 +27,6 @@ import net.minecraft.block.Block;
 import net.mcreator.lotmodfabric.item.BronieItemGroup;
 import net.mcreator.lotmodfabric.block.LotmodWoodBlock;
 import net.mcreator.lotmodfabric.block.LotmodStairsBlock;
-import net.mcreator.lotmodfabric.block.LotmodSlabBlock;
 import net.mcreator.lotmodfabric.block.LotmodPlanksBlock;
 import net.mcreator.lotmodfabric.block.LotmodLogBlock;
 import net.mcreator.lotmodfabric.block.LotmodLeavesBlock;
@@ -59,9 +58,6 @@ public class LotmodFabricMod implements ModInitializer {
 	public static final Block LotmodStairs_BLOCK = Registry.register(Registry.BLOCK, id("lotmod_stairs"), new LotmodStairsBlock());
 	public static final BlockItem LotmodStairs_ITEM = Registry.register(Registry.ITEM, id("lotmod_stairs"),
 			new BlockItem(LotmodStairs_BLOCK, new Item.Settings().group(LotmodFabricMod.Bronie)));
-	public static final Block LotmodSlab_BLOCK = Registry.register(Registry.BLOCK, id("lotmod_slab"), new LotmodSlabBlock());
-	public static final BlockItem LotmodSlab_ITEM = Registry.register(Registry.ITEM, id("lotmod_slab"),
-			new BlockItem(LotmodSlab_BLOCK, new Item.Settings().group(LotmodFabricMod.Bronie)));
 	public static final Block LotmodFence_BLOCK = Registry.register(Registry.BLOCK, id("lotmod_fence"), new LotmodFenceBlock());
 	public static final BlockItem LotmodFence_ITEM = Registry.register(Registry.ITEM, id("lotmod_fence"),
 			new BlockItem(LotmodFence_BLOCK, new Item.Settings().group(LotmodFabricMod.Bronie)));
